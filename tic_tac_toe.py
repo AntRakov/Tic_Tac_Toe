@@ -1,7 +1,7 @@
 '''
     Крестики нолики v1.0
     Создано: Jan 15 2023.
-    GitHub: https://github.com/
+    GitHub: https://github.com/AntRakov/Tic_Tac_Toe.git
 
 '''
 
